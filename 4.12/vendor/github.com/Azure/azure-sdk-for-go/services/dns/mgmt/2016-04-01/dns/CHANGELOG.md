@@ -1,0 +1,1 @@
+/home/mabadper/repos/installer-aro/vendor/github.com/Azure/azure-sdk-for-go/services/dns/mgmt/2016-04-01/dns/CHANGELOG.md

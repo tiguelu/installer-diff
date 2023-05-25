@@ -1,0 +1,1 @@
+/home/mabadper/repos/installer-aro/hack/go-test.sh

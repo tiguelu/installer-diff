@@ -1,0 +1,1 @@
+/home/mabadper/repos/installer-aro/terraform/providers/azurerm/vendor/golang.org/x/crypto/openpgp/write.go
