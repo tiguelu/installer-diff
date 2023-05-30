@@ -1,1 +1,0 @@
-/home/mabadper/repos/installer-aro/terraform/providers/ignition/vendor/golang.org/x/crypto/openpgp/packet/userattribute.go

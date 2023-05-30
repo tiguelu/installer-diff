@@ -1,1 +1,0 @@
-/home/mabadper/repos/installer-aro/terraform/providers/local/vendor/golang.org/x/sys/unix/zsyscall_netbsd_arm.go

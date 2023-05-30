@@ -1,1 +1,0 @@
-/home/mabadper/repos/installer-aro/terraform/providers/local/vendor/golang.org/x/sys/unix/zsysnum_linux_amd64.go

@@ -1,1 +1,0 @@
-/home/mabadper/repos/installer-aro/vendor/github.com/Azure/azure-sdk-for-go/services/graphrbac/1.6/graphrbac/objects.go

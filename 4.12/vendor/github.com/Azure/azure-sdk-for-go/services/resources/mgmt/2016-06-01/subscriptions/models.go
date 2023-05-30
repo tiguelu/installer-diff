@@ -1,1 +1,0 @@
-/home/mabadper/repos/installer-aro/vendor/github.com/Azure/azure-sdk-for-go/services/resources/mgmt/2016-06-01/subscriptions/models.go

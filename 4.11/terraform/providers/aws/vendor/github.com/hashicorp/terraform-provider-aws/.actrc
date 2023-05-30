@@ -1,2 +1,0 @@
-# Needed for testing our workflows
--P ubuntu-latest=nektos/act-environments-ubuntu:18.04
