@@ -21,6 +21,10 @@ then
 fi
 
 tempdir=$(mktemp -d)
-git diff --name-only "${commit}~..${commit}" | xargs git --work-tree $tempdir checkout "${commit}~" --
-meld $tempdir/*
-rm -rf $tempdir
+git worktree add --no-checkout --detach $tempdir
+cd $tempdir
+git diff --name-only "${commit}~..${commit}" | xargs git checkout "${commit}~" --
+mkdir -p $tempdir/{4.11,4.12}
+meld $tempdir/{4.11,4.12}
+cd $OLDPWD
+git worktree remove --force $tempdir
